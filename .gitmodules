@@ -1,0 +1,12 @@
+[submodule ".tmux"]
+	path = .tmux
+	url = https://github.com/lovebaihezi/.tmux
+[submodule ".doom.d"]
+	path = .doom.d
+	url = https://github.com/lovebaihezi/.doom.d
+[submodule ".config/nvim"]
+	path = .config/nvim
+	url = https://github.com/lovebaihezi/nvim
+[submodule ".config/elvish"]
+	path = .config/elvish
+	url = https://github.com/lovebaihezi/.elvish
